@@ -18,7 +18,7 @@
 - GitHub license
 - Twitter
 
-[![GitHub issues](https://img.shields.io/github/issues/Kingdom-Programmers-LTD/ionic-ancular-gallery)](https://kingdomprogrammers.com) [![GitHub forks](https://img.shields.io/github/forks/Kingdom-Programmers-LTD/ionic-ancular-gallery)](https://kingdomprogrammers.com) [![GitHub stars]( https://img.shields.io/github/stars/Kingdom-Programmers-LTD/ionic-ancular-gallery)](https://kingdomprogrammers.com) [![GitHub licens](https://img.shields.io/github/license/Kingdom-Programmers-LTD/ionic-ancular-gallery)](https://kingdomprogrammers.com) [![Twitter](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2FKingdom-Programmers-LTD%2Fionic-ancular-gallery)](https://kingdomprogrammers.com)
+[![GitHub issues](https://img.shields.io/github/issues/Kingdom-Programmers-LTD/ionic-ancular-gallery)](https://kingdomprogrammers.com) [![GitHub forks](https://img.shields.io/github/forks/Kingdom-Programmers-LTD/ionic-ancular-gallery)](https://kingdomprogrammers.com) [![GitHub stars]( https://img.shields.io/github/stars/Kingdom-Programmers-LTD/ionic-ancular-gallery)](https://kingdomprogrammers.com) [![GitHub license](https://img.shields.io/github/license/Kingdom-Programmers-LTD/ionic-ancular-gallery)](https://kingdomprogrammers.com) [![Twitter](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2FKingdom-Programmers-LTD%2Fionic-ancular-gallery)](https://kingdomprogrammers.com)
 
 ---
 
